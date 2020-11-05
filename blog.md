@@ -4,6 +4,7 @@ title: Blog
 permalink: /blog
 ---
 
+[Accueil](/) [Contact](/contact)
 <ul>
     {% for post in site.posts %}
         <li>

@@ -4,5 +4,4 @@ title: Me contacter
 permalink: /contact
 ---
 
-[Accueil](/)
-[Blog](/blog)
+[Accueil](/) [Blog](/blog)
