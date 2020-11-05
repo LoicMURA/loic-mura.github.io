@@ -4,5 +4,5 @@ title: Page d'accueil
 permalink: /
 ---
 
-[Blog] (/blog)
+[Blog](/blog)
 [Me contacter](/contact)

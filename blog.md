@@ -1,5 +1,5 @@
 ---
 layout: blog
-title: Me contacter
+title: Blog
 permalink: /blog
 ---
