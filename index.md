@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Homepage
+title: Page d'accueil
 permalink: /
 ---
